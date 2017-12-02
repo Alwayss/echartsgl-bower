@@ -1,10 +1,13 @@
 {
-  "name": "echartsgl-bower",
+  "name": "echarts@gl",
   "authors": [
     "347316533@qq.com"
   ],
   "description": "echarts contains webgl",
-  "main": ["lib/echarts.js", "lib/echarts-gl.js"],
+  "main": [
+	"lib/echarts.js", 
+	"lib/echarts-gl.js"
+],
   "keywords": [
     "echarts",
     "webgl"
