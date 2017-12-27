@@ -1,7 +1,7 @@
 {
-  "name": "echarts@gl",
+  "name": "echartsgl-bower",
   "authors": [
-    "347316533@qq.com"
+    "huangwj"
   ],
   "description": "echarts contains webgl",
   "main": [
